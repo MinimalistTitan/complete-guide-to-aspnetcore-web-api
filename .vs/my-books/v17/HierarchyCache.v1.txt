@@ -1,0 +1,222 @@
+﻿++Solution 'my-books' ‎(2 of 2 projects)
+i:{00000000-0000-0000-0000-000000000000}:my-books.sln
+++my-books
+i:{00000000-0000-0000-0000-000000000000}:my-books
+i:{074f9943-5acd-4a4f-ab73-3e2d7bd94612}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\bin\debug\net6.0\my-books.dll
+++Connected Services 
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:>803
+++Dependencies
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:>802
+i:{074f9943-5acd-4a4f-ab73-3e2d7bd94612}:>619
+++Properties
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\properties\
+++launchSettings.json
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\properties\launchsettings.json
+++ActionResults
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\actionresults\
+++CustomActionResult.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\actionresults\customactionresult.cs
+++Controllers
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\controllers\
+++v1
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\controllers\v1\
+++TestController.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\controllers\v1\testcontroller.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\controllers\v2\testcontroller.cs
+++v2
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\controllers\v2\
+++AuthorsController.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\controllers\authorscontroller.cs
+++BooksController.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\controllers\bookscontroller.cs
+++ExceptionController.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\controllers\exceptioncontroller.cs
+++PublishersController.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\controllers\publisherscontroller.cs
+++Data
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\data\
+++Models
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\data\models\
+++Paging
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\data\paging\
+++PaginatedList.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\data\paging\paginatedlist.cs
+++Services
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\data\services\
+++ViewModels
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\data\viewmodels\
+++AppDbContext.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\data\appdbcontext.cs
+++AppDbInitializer.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\data\appdbinitializer.cs
+++EntityModels
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\entitymodels\
+++Exceptions
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\exceptions\
+++CustomExceptionMiddleware.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\exceptions\customexceptionmiddleware.cs
+++ExceptionMiddlewareExtensions.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\exceptions\exceptionmiddlewareextensions.cs
+++PublisherNameException.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\exceptions\publishernameexception.cs
+++Logs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\logs\
+++log20220322.txt
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\logs\log20220322.txt
+++log20220323.txt
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\logs\log20220323.txt
+++log20220324.txt
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\logs\log20220324.txt
+++Migrations
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\migrations\
+++appsettings.json
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\appsettings.json
+++efpt.config.json
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\efpt.config.json
+++Program.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\program.cs
+++No service dependencies discovered
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:>804
+++Analyzers
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:analyzers
+i:{074f9943-5acd-4a4f-ab73-3e2d7bd94612}:analyzers
+++Frameworks
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:frameworks
+i:{074f9943-5acd-4a4f-ab73-3e2d7bd94612}:frameworks
+++Packages
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:packages
+i:{074f9943-5acd-4a4f-ab73-3e2d7bd94612}:packages
+++Author.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\data\models\author.cs
+++Book.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\data\models\book.cs
+++Book_Author.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\data\models\book_author.cs
+++Log.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\data\models\log.cs
+++Publisher.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\data\models\publisher.cs
+++AuthorsService.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\data\services\authorsservice.cs
+++BooksService.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\data\services\booksservice.cs
+++LogsService.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\data\services\logsservice.cs
+++PublishersService .cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\data\services\publishersservice .cs
+++AuthorVM.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\data\viewmodels\authorvm.cs
+++BookVM.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\data\viewmodels\bookvm.cs
+++CustomActionResultVM.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\data\viewmodels\customactionresultvm.cs
+++ErrorVM.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\data\viewmodels\errorvm.cs
+++PublisherVM.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\data\viewmodels\publishervm.cs
+++Authors.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\entitymodels\authors.cs
+++BookAuthors.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\entitymodels\bookauthors.cs
+++Books.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\entitymodels\books.cs
+++Customer.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\entitymodels\customer.cs
+++LogEvents.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\entitymodels\logevents.cs
+++Logs.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\entitymodels\logs.cs
+++MyBooksDbContext.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\entitymodels\mybooksdbcontext.cs
+++Publishers.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\entitymodels\publishers.cs
+++20220317135314_Initial.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\migrations\20220317135314_initial.cs
+++20220317143115_ManyToManyAdded.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\migrations\20220317143115_manytomanyadded.cs
+++20220319032836_BookAuthorColumnRemoved.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\migrations\20220319032836_bookauthorcolumnremoved.cs
+++20220323144426_AddedLogTabl.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\migrations\20220323144426_addedlogtabl.cs
+++AppDbContextModelSnapshot.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\migrations\appdbcontextmodelsnapshot.cs
+++appsettings.Development.json
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{074f9943-5acd-4a4f-ab73-3e2d7bd94612}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{074f9943-5acd-4a4f-ab73-3e2d7bd94612}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{074f9943-5acd-4a4f-ab73-3e2d7bd94612}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{074f9943-5acd-4a4f-ab73-3e2d7bd94612}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.3\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{074f9943-5acd-4a4f-ab73-3e2d7bd94612}:c:\users\admin\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.3\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{074f9943-5acd-4a4f-ab73-3e2d7bd94612}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{074f9943-5acd-4a4f-ab73-3e2d7bd94612}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\microsoft.netcore.app
+i:{074f9943-5acd-4a4f-ab73-3e2d7bd94612}:c:\users\admin\desktop\web api dotnet core\my-books\my-books-tests\microsoft.netcore.app
+++Microsoft.AspNetCore.Mvc.Versioning (5.0.0)
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:>833
+++Microsoft.EntityFrameworkCore (6.0.3)
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:>836
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.3)
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:>838
+++Microsoft.EntityFrameworkCore.Tools (6.0.3)
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:>846
+++Newtonsoft.Json (13.0.1)
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:>841
+++Serilog.AspNetCore (5.0.0)
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:>843
+++Serilog.Sinks.File (5.0.0)
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:>844
+++Serilog.Sinks.MSSqlServer (5.7.0)
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:>845
+++Swashbuckle.AspNetCore (6.2.3)
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:>840
+++20220317135314_Initial.Designer.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\migrations\20220317135314_initial.designer.cs
+++20220317143115_ManyToManyAdded.Designer.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\migrations\20220317143115_manytomanyadded.designer.cs
+++20220319032836_BookAuthorColumnRemoved.Designer.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\migrations\20220319032836_bookauthorcolumnremoved.designer.cs
+++20220323144426_AddedLogTabl.Designer.cs
+i:{76922a0e-03ee-440e-81cd-5f116d416d90}:c:\users\admin\desktop\web api dotnet core\my-books\my-books\migrations\20220323144426_addedlogtabl.designer.cs
+++my-books-tests
+i:{00000000-0000-0000-0000-000000000000}:my-books-tests
+++PublisherServiceTest.cs
+i:{074f9943-5acd-4a4f-ab73-3e2d7bd94612}:c:\users\admin\desktop\web api dotnet core\my-books\my-books-tests\publisherservicetest.cs
+++Projects
+i:{074f9943-5acd-4a4f-ab73-3e2d7bd94612}:projects
+++coverlet.collector (3.1.0)
+i:{074f9943-5acd-4a4f-ab73-3e2d7bd94612}:>842
+++Microsoft.EntityFrameworkCore.InMemory (6.0.3)
+i:{074f9943-5acd-4a4f-ab73-3e2d7bd94612}:>839
+++Microsoft.NET.Test.Sdk (16.11.0)
+i:{074f9943-5acd-4a4f-ab73-3e2d7bd94612}:>834
+++NUnit (3.13.2)
+i:{074f9943-5acd-4a4f-ab73-3e2d7bd94612}:>835
+++NUnit3TestAdapter (4.0.0)
+i:{074f9943-5acd-4a4f-ab73-3e2d7bd94612}:>837

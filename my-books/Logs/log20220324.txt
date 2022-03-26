@@ -1,0 +1,37 @@
+03/24/2022 22:27:57 +07:00 [Information] - Message: This is just a log in GetAllPublisher()
+03/24/2022 22:29:18 +07:00 [Information] - Message: This is just a log in GetAllPublisher()
+03/24/2022 22:30:07 +07:00 [Information] - Message: This is just a log in GetAllPublisher()
+03/24/2022 22:33:30 +07:00 [Error] - Message: An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/Test/get-test-data" for actions - my_books.Controllers.v2.TestController.Get (my-books),my_books.Controllers.v1.TestController.GetV1 (my-books),my_books.Controllers.v1.TestController.GetV12 (my-books),my_books.Controllers.v1.TestController.GetV19 (my-books). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+03/24/2022 22:34:34 +07:00 [Error] - Message: An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/Test/get-test-data" for actions - my_books.Controllers.v2.TestController.Get (my-books),my_books.Controllers.v1.TestController.GetV1 (my-books),my_books.Controllers.v1.TestController.GetV12 (my-books),my_books.Controllers.v1.TestController.GetV19 (my-books). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+03/24/2022 22:34:48 +07:00 [Error] - Message: An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/Test/get-test-data" for actions - my_books.Controllers.v2.TestController.Get (my-books),my_books.Controllers.v1.TestController.GetV1 (my-books),my_books.Controllers.v1.TestController.GetV12 (my-books),my_books.Controllers.v1.TestController.GetV19 (my-books). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+03/24/2022 22:36:57 +07:00 [Error] - Message: An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/Test/get-test-data" for actions - my_books.Controllers.v2.TestController.Get (my-books),my_books.Controllers.v1.TestController.GetV1 (my-books),my_books.Controllers.v1.TestController.GetV12 (my-books),my_books.Controllers.v1.TestController.GetV19 (my-books). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+03/24/2022 22:42:14 +07:00 [Information] - Message: This is just a log in GetAllPublisher()
+03/24/2022 22:42:46 +07:00 [Information] - Message: This is just a log in GetAllPublisher()
+03/24/2022 22:43:07 +07:00 [Information] - Message: This is just a log in GetAllPublisher()
+03/24/2022 22:43:17 +07:00 [Information] - Message: This is just a log in GetAllPublisher()
+03/24/2022 22:43:42 +07:00 [Information] - Message: This is just a log in GetAllPublisher()
+03/24/2022 22:43:55 +07:00 [Information] - Message: This is just a log in GetAllPublisher()

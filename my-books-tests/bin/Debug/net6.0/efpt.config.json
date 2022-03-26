@@ -1,0 +1,63 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "MyBooksDbContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "EntityModels",
+   "ProjectRootNamespace": "my_books",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Authors]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Book_Authors]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Books]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Customer]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[LogEvents]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Logs]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Publishers]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "MSI.my-books-db",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
